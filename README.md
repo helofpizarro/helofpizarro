@@ -1,4 +1,4 @@
-##Olá! Eu sou a MAria Heloisa 
+##Olá! Eu sou a Maria Heloisa 
 - 🔭 Hoje trabalho com Front End
 - 🌱 Estudando React
 - 📫 Contate-me no e-mail: heloisa.fpizarro@gmail.com
