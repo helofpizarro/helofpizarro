@@ -2,7 +2,7 @@
 - 🔭 Hoje trabalho com Front End
 - 🌱 Estudando React
 - 👯 I’m looking to collaborate on ...
-- 📫 Contate-me no e-mail: maryhelo52@gmail.com
+- 📫 Contate-me no e-mail: heloisa.fpizarro@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div>
