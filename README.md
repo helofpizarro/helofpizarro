@@ -1,6 +1,6 @@
-##Olá! Eu sou a Maria Heloisa 
+##Hi there
 - 🔭 Hoje trabalho com Front End
-- 🌱 Estudando React
+- 🌱 Estudando React e Next.js
 - 📫 Contate-me no e-mail: heloisa.fpizarro@gmail.com
 - 😄 Pronouns: ela/dela
 
